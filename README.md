@@ -24,7 +24,6 @@
 }
 ```
 ### Response
-### SUCCESS
 ```bash
 {
   "status": "success",
@@ -45,7 +44,6 @@
 }
 ```
 ### Response
-### SUCCESS
 ```bash
 {
   "status": "success",
@@ -66,7 +64,6 @@
 
 ```
 ### Response
-### SUCCESS
 ```bash
 {
   "status": "success",
@@ -97,7 +94,6 @@
 
 ```
 ### Response
-### SUCCESS
 ```bash
 
 {
