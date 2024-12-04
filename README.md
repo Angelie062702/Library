@@ -28,7 +28,7 @@
 ```bash
 {
   "status": "success",
-  "access_token": null,
+  "token": null,
   "data": null
 }
 ```
@@ -172,7 +172,7 @@
 #### Payload  
 ```
 {
-  "token": "from auth"
+  "token": "token from auth"
 }
 ```
 #### Response
@@ -200,7 +200,7 @@
 #### Payload  
 ```
 {
-  "token": "from auth"
+  "token": " token from auth"
 }
 ```
 #### Response
@@ -220,7 +220,7 @@
 #### Payload  
 ```
 {
-  "token": "from auth"
+  "token": "token from auth"
 }
 ```
 #### Response
@@ -265,7 +265,7 @@
 ```
 {
   "bookid": 35,
-  "token": "from auth"
+  "token": "token from auth"
 }
 
 ```
