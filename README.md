@@ -147,8 +147,8 @@
 ```
 
 ### Update POST
-**URL:** `POST /author/post`  
-**Method:** `POST`  
+#### URL:`POST /author/post`  
+#### Method:`POST`  
 
 #### Payload  
 ```
@@ -166,8 +166,8 @@
 ```
 
 ### Show AUTHOR
-**URL:** `POST /author/show`  
-**Method:** `POST`  
+#### URL:`POST /author/show`  
+#### Method:`POST`  
 
 #### Payload  
 ```
@@ -194,8 +194,8 @@
 ```
 
 ### Delete AUTHOR
-**URL:** `DELETE /author/delete{id} 
-**Method:** `DELETE`  
+#### URL: `DELETE /author/delete{id} 
+#### Method: `DELETE`  
 
 #### Payload  
 ```
@@ -214,8 +214,8 @@
 ## Books Endpoints
 
 ### Show BOOKS
-**URL:** POST /book/show 
-**Method:** `POST`  
+#### URL: POST /book/show 
+#### Method: `POST`  
 
 #### Payload  
 ```
@@ -239,8 +239,8 @@
 ```
 
 ### Update Book
-**URL:** PUT /book/update{id}
-**Method:** `PUT`  
+#### URL: PUT /book/update{id}
+#### Method: `PUT`  
 
 #### Payload  
 ```
@@ -258,8 +258,8 @@
 }
 ```
 ### Delete Book
-**URL:** DELETE /book/delete{id}
-**Method:** `DELETE`  
+#### URL: DELETE /book/delete{id}
+#### Method: `DELETE`  
 
 #### Payload  
 ```
@@ -279,8 +279,8 @@
 ```
 
 ### View All Book-Author Relations
-**URL:** POST /book/author/view
-**Method:** `POST`  
+#### URL: POST /book/author/view
+#### Method: `POST`  
 
 #### Payload  
 ```
@@ -306,8 +306,9 @@
 }
 
 ```
+
 ## CREATED BY:
-Angelie Mae V. Almen / BS INFOTECH 4D
+**Angelie Mae V. Almen / BS INFOTECH 4D**
 
 
 
